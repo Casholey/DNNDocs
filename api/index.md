@@ -1,2 +1,2 @@
 # DNN API Documentation Home
-Coming soon...
+Legacy Key https://ud.me/inspiration4x.x
